@@ -6,6 +6,3 @@
 
 <code>["BrandName": макет без темы](https://avadoo.github.io/Kleinvest/ "Интернет-магазин вина")
 </code>
-
-<code>["BrandName": макет без темы](https://avadoo.github.io/test.exe/ "Интернет-магазин вина")
-</code>
